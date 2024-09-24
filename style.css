@@ -1,0 +1,10 @@
+div
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(44, 47, 232);
+    color: white;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid black;
+}
