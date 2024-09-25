@@ -1,10 +1,23 @@
-div
-{
-    height: 100px;
+button{
+    height: 30px;
     width: 100px;
-    background-color: rgb(44, 47, 232);
-    color: white;
+    border-radius: 30px;
     text-align: center;
-    margin: 10px;
-    border: 1px solid black;
+    color: aliceblue;
+    background-color: blue;
+    margin-left: 94px;
+
+}
+.num
+{
+    text-decoration: solid;
+    
+    font-size: x-large;
+}
+.counter{
+    border: 1px solid;
+    text-align: center;
+    width: 30%;
+    height: 30px;
+    margin: 15px;
 }
